@@ -136,9 +136,9 @@ If you use this code in academic work, please cite NiaPy and the dataset source 
 
 Choose a license before public release (e.g., MIT, Apache-2.0).  
 If you are unsure, **MIT** is a common choice for research code.
-Paper Link: https://ieeexplore.ieee.org/abstract/document/11337741/
+
 ---
 
 ## Contact
 
-For questions or collaboration, open an issue in this repository.
+For questions or collaboration, open an issue in this repository. Paper Link: https://ieeexplore.ieee.org/abstract/document/11337741/
